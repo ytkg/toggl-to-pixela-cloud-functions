@@ -1,0 +1,236 @@
+{
+  "total_grand": 626591842,
+  "total_billable": null,
+  "total_currencies": [
+    {
+      "currency": null,
+      "amount": null
+    }
+  ],
+  "data": [
+    {
+      "id": 165939017,
+      "title": {
+        "project": "ウォーキング",
+        "client": null,
+        "color": "0",
+        "hex_color": "#465bb3"
+      },
+      "time": 3908000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 3908000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2021-05-10T22:21:58"
+        }
+      ]
+    },
+    {
+      "id": 162314011,
+      "title": {
+        "project": "個人開発",
+        "client": null,
+        "color": "0",
+        "hex_color": "#525266"
+      },
+      "time": 338915660,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 338915660,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2021-01-01T14:19:28"
+        }
+      ]
+    },
+    {
+      "id": 162358912,
+      "title": {
+        "project": "エンジニア学習",
+        "client": null,
+        "color": "0",
+        "hex_color": "#d94182"
+      },
+      "time": 59823000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 59823000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2021-01-10T00:07:23"
+        }
+      ]
+    },
+    {
+      "id": 162312870,
+      "title": {
+        "project": "ブログ活動",
+        "client": null,
+        "color": "0",
+        "hex_color": "#d92b2b"
+      },
+      "time": 123461000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 123461000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2021-01-02T23:06:25"
+        }
+      ]
+    },
+    {
+      "id": 165126631,
+      "title": {
+        "project": "自転車",
+        "client": null,
+        "color": "0",
+        "hex_color": "#465bb3"
+      },
+      "time": 27900000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 27900000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2021-01-17T14:05:00"
+        }
+      ]
+    },
+    {
+      "id": 162307142,
+      "title": {
+        "project": "英語学習",
+        "client": null,
+        "color": "0",
+        "hex_color": "#c9806b"
+      },
+      "time": 39646182,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 39646182,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2021-01-01T22:05:00"
+        }
+      ]
+    },
+    {
+      "id": 162354173,
+      "title": {
+        "project": "読書",
+        "client": null,
+        "color": "0",
+        "hex_color": "#0b83d9"
+      },
+      "time": 32169000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 32169000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2021-02-20T18:56:54"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "title": {
+        "project": null,
+        "client": null,
+        "color": "0",
+        "hex_color": null
+      },
+      "time": 769000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 769000,
+          "cur": null,
+          "sum": null,
+          "rate": null,
+          "local_start": "2021-04-26T23:34:27"
+        }
+      ]
+    }
+  ]
+}
